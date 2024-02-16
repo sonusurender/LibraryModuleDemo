@@ -10,9 +10,10 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url = uri("https://jitpack.io") }
     }
 }
 
 rootProject.name = "LibraryModuleExample"
 include(":app")
-include(":networkmodule")
+//include(":networkmodule")

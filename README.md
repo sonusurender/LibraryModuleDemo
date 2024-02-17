@@ -41,7 +41,7 @@ For detailed explanation of code, [visit here](https://www.androhub.com/publish-
 # Support
 Reach out to me at surender@androhub.com.
 
-# Buy me a Coffee
+# Buy Me a Coffee
 Donate for the free content.
 
 <a href="https://www.buymeacoffee.com/androhub" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
